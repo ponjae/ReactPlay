@@ -11,3 +11,10 @@ body {
   );
   text-align: center;
 }
+
+.main-title {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-size: 76px;
+  color: #0ccac4;
+}
